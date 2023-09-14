@@ -9,7 +9,7 @@ This example shows how to implement a **REST API** using [Express](https://expre
 Clone this repository:
 
 ```
-git clone
+git clone https://github.com/nhvavadiya/prisma_nodejs_demo.git
 ```
 
 Install npm dependencies:
